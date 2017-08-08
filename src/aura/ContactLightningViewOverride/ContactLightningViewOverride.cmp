@@ -1,0 +1,3 @@
+<aura:component implements="lightning:actionOverride,force:hasRecordId,force:hasSObjectName">
+    <c:LightningViewOverride objectName="Contact" listViewName="All Contacts"/>
+</aura:component>

@@ -1,0 +1,7 @@
+<aura:component controller="LightningViewOverrideController">
+    
+    <aura:attribute name="objectName" type="String" description="Name of Object for the override"/>
+    <aura:attribute name="listViewName" type="String" description="Name of List View for the default view"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    
+</aura:component>
