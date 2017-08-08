@@ -1,8 +1,11 @@
 # LightningOverride
 Override Lightning Tabs
 
-Lightning Tab Override
-====================================
+## Usage
+Override the recently viewed list views in Lightning to any list view
+Samples provided. 
+
+Create your own Lightning Component for any Object.
  
 <a href="https://githubsfdeploy.herokuapp.com?owner=logontokartik&repo=LightningOverride">
   <img alt="Deploy to Salesforce"
